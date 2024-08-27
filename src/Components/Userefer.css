@@ -1,0 +1,15 @@
+.headerdiv{
+    height: 300px;
+    width: 400px;
+    background-color: #7f5050;
+}
+.maindiv{
+    height: 300px;
+    width: 400px;
+    background-color: #ae3636;
+}
+.condiv{
+    height: 300px;
+    width: 400px;
+    background-color: #e05252;
+}
